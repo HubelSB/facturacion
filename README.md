@@ -5,6 +5,14 @@ Escrito el 2023 en el curso de Construccion de Software I, para la Universidad N
 
 #INSTALACION
 
+1. Suir la aplicacion
+2. Editar el archivo Conexion.php apuntando estos datos
+   IP
+   USER
+   CLAVE 
+4. 
+
+
 #PRUEAS UNITARIAS
 
 #CALIDAD DE SOFTWARE
